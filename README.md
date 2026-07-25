@@ -16,7 +16,6 @@ The system uses separate text files for data persistence and initial data prepar
 *   `Product.txt`: Contains product details such as product ID, name, description, price, and quantity.
 *   `suppliers.txt`: Stores supplier information, including supplier ID, name, and contact details.
 *   `orders.txt`: Maintains records of orders, including the timestamp, product ID, order quantity, supplier ID, and delivery status.
-*   `Project_Sept24(1).pdf`: The project description and marking rubrics reference document.
 
 ## Group Members
 This is a group project developed by the following members:
